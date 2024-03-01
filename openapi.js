@@ -1,5 +1,5 @@
-// const apiKey = process.env.OPENAI_API_KEY;
-const apiKey = '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';
+const apiKey = process.env.OPENAI_API_KEY;
+// const apiKey = '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';
         // OpenAI API 엔드포인트
 const apiUrl = 'https://api.openai.com/v1/chat/completions';
 
